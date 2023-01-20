@@ -1,0 +1,38 @@
+.Body {
+    padding: 1rem;
+    width: 100vw;
+    height: 90vh;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+}
+
+.align {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.add {
+    position:absolute;
+    bottom: 0;
+    right: 0;
+    width: 5rem;
+    height: 3rem;
+    margin: 50px;
+}
+
+.gp {
+    position:absolute;
+    right: 0;
+}
+
+.itemHolder {
+    height: 600px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    overflow-y: scroll;
+}

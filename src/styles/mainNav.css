@@ -1,0 +1,13 @@
+.mainNav {
+    padding: 16px 8px;
+    width: 20vw;
+    height: 90vh;
+    background-color: #3C4A54;
+    display: flex;
+    justify-content: space-between;
+}
+
+.linkText {
+    color: white;
+    margin: 8px;
+}
